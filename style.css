@@ -1,0 +1,67 @@
+/* style.css */
+
+
+body{
+  background: #F1F0EF;
+  color: #2243E7;
+  font-size: 35px;
+  font-family: 'Didact Gothic', sans-serif;
+  text-align: center;
+  margin: 0;
+}
+h1{
+  font-family: 'Gothic A1', sans-serif;
+  color: #2243E7;
+  font-weight: 700;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 5px;
+  word-spacing: 10px;
+  margin: 0, 20;
+}
+h2 {
+  font-family: 'Didact Gothic', sans-serif;
+  color: #2243E7;
+  font-weight: lighter;
+  font-size: 35px;
+  text-align: center;
+  margin: 0, 20;
+}
+a {
+  color: #2243E7;
+  text-align: center;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+  text-align: center;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("images/soulsalon.png");
+  background-size: cover;
+  padding: 300px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: #2243E7;
+  font-size: 25px;
+}
+#banner p {
+  color: #2243E7;
+  opacity: 0.8;
+  font-size: 20px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+}
+
